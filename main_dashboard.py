@@ -633,7 +633,7 @@ with col2:
 with col3:
 
     st.caption(
-        "📅 **Built**: Jan 2026 • Satyajit"
+        "📅 **Built**: Sep 2026 • Mohit"
     )
 
 
